@@ -9,14 +9,18 @@
 
 5. I have good hands-on experience with CI/CD tools such as Jenkins, Argo CD, and GitHub Actions. In production env, we use Jenkins pipelines, while in lower environments we used for testing in GitHub Actions.
 
-6. I have good experience with containerization and orchestration tools such as Docker and Kubernetes. I can write DockerFiles for some microservices and handle Kubernetes-related tickets, troubleshooting, and deployment issues.
+6. I have good experience with containerization and orchestration tools such as Docker and Kubernetes. I can write DockerFiles for some microservices and handle Kubernetes-related tickets, troubleshooting,
+and deployment issues.
 
 7. Coming to the cloud platform, we primarily manage our services on AWS. Our organization also uses Azure, but a dedicated team handles Azure, while I currently work on AWS services and infrastructure.
 
-8. Initially, we had a separate team managing infrastructure provisioning. Later, that team moved to another project, so our DevOps team took responsibility for infrastructure maintenance. Recently, I started working with Terraform for Infrastructure as Code (IaC), including provisioning and managing AWS resources.
+8. Initially, we had a separate team managing infrastructure provisioning. Later, that team moved to another project, so our DevOps team took responsibility for infrastructure maintenance. Recently,
+I started working with Terraform for Infrastructure as Code (IaC), including provisioning and managing AWS resources.
 
 9. Coming to configuration management, I have good hands-on experience with Ansible for automating configuration management and repetitive tasks.
 
-10. In our project, we have more than 55 microservices. I primarily support five microservices, handling deployments, monitoring, troubleshooting, and resolving application-related issues. We also have a dedicated database team that manages database administration, and we coordinate with them whenever database support is required.
+10. In our project, we have more than 55 microservices. I primarily support five microservices, handling deployments, monitoring, troubleshooting, and resolving application-related issues.
+We also have a dedicated database team that manages database administration, and we coordinate with them whenever database support is required.
 
-11. Coming to my daily activities, we receive tickets based on operational requirements. I analyze the issues, troubleshoot them, and work toward resolving them within the defined SLA. I also monitor application health, support CI/CD deployments, investigate production issues, and coordinate with different teams whenever required.
+11. Coming to my daily activities, we receive tickets based on operational requirements. I analyze the issues, troubleshoot them, and work toward resolving them within the defined SLA.
+I also monitor application health, support CI/CD deployments, investigate production issues, and coordinate with different teams whenever required.
